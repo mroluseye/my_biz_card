@@ -98,7 +98,7 @@ class MyApp extends StatelessWidget {
                       size: 30.0,
                     ),
                     SizedBox(
-                      width: 55.0,
+                      width: 60.0,
                     ),
                     Icon(
                       Icons.download,
